@@ -1,3 +1,4 @@
 # personalportfolio
 
-Please see WIKI for the screenshot of the portfolio website.
+Click on the following url to visit my Portfolio website :)
+https://limpid-spindles.000webhostapp.com/
