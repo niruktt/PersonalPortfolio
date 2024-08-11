@@ -1,4 +1,4 @@
-# personalportfolio
+# Personal Portfolio
 
-Click on the following url to visit my Portfolio website :)
-https://limpid-spindles.000webhostapp.com/
+This website is built using WordPress CMS
+Click this link to visit https://www.nirukttfolio.infinityfreeapp.com/
